@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-IMAGE_NAME=jecklgamis/cucumber-jvm-kotlin-example
+IMAGE_NAME=mtthan/testmaven
 IMAGE_TAG=latest
 
 JAVA_OPTS=${JAVA_OPTS:-""}

@@ -1,4 +1,4 @@
-# %NAME% Changelog
+# testmaven Changelog
 
 ## [Unreleased]
 
